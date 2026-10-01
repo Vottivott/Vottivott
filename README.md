@@ -2,9 +2,6 @@
 
 <p align="center">Teaching tiny robots new tricks.</p>
 
-> [!IMPORTANT]
-> The [microduck-playground](https://github.com/Vottivott/microduck-playground) lost all its 45 stars after a visibility bug briefly turned it private! If you have starred it before, **feel free to re-star!** ❤️
-
 <p align="center">
   <a href="https://github.com/Vottivott/microduck-playground">
     <img src="assets/microduck-basketball-fixed-wide.webp" width="660" alt="Microduck balancing on a basketball, with a transparent background and a soft shadow">
